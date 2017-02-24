@@ -1,12 +1,11 @@
 # Tallium - Sharepoint integration
 
-## API use case - import content from sharepoint for community managers
-
-### Covered use cases: 
- 
-
+## API use cases - import content from sharepoint for community managers
 - Bulk import from SharePoint library. 
 - Create posts in Tallium as embeds linked to sharepoint
+
+## Usage
+Edit ```sample_settings.py``` to add your own credentials and rename it to ```settings.py```
 
 # Third Party Libraries and Dependencies
 

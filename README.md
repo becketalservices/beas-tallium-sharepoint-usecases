@@ -10,13 +10,5 @@
 
 # Third Party Libraries and Dependencies
 
-* [requests](https://github.com/kennethreitz/requests)
-* [Office365-REST-Python-Client](https://github.com/vgrem/Office365-REST-Python-Client)
-
-## Use pip:
-
-```
-$ pip install requests
-$ pip install Office365-REST-Python-Client
-```
-
+* [requests](https://github.com/kennethreitz/requests) ```$ pip install requests```
+* [Office365-REST-Python-Client](https://github.com/vgrem/Office365-REST-Python-Client) ```$ pip install Office365-REST-Python-Client```
